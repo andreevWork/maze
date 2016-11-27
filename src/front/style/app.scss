@@ -1,0 +1,20 @@
+$background-brand: rgb(34, 26, 41);
+
+html, body {
+    background: $background-brand;
+    size: 100%;
+
+    * {
+      box-sizing: border-box;
+    }
+
+    .battlefield {
+      size: 70% 100%;
+      float: left;
+    }
+
+    .editor {
+      size: 30% 100%;
+      float: right;
+    }
+}
