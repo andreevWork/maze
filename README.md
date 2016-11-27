@@ -1,0 +1,2 @@
+# maze
+## JS code game
